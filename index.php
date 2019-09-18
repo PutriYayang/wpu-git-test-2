@@ -5,5 +5,6 @@
 </head>
 <body>
 	<h1>Hello world!</h1>
+	<P>Lorem</P>
 </body>
 </html>
